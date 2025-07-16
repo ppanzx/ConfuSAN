@@ -1,0 +1,6 @@
+itr/.vscode
+itr/scripts/runs
+itr/scripts/visualization
+vtr/.vscode
+vtr/ckpts
+vtr/visualization
